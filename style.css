@@ -1,0 +1,19 @@
+body {background-color: teal;
+    text-align: center;
+}
+h1 {text-align: center;
+border-color: bisque;
+border-style: groove;
+border-width: 30px;
+color: red;
+}
+h2 {border-color: blanchedalmond;
+border-style: groove;
+border-width: 16px;
+color: blueviolet;
+}
+h3 {border-color: antiquewhite;
+border-style: groove;
+border-width: 16px;
+color: blueviolet;
+}
